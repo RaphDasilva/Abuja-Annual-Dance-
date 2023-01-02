@@ -215,4 +215,51 @@ header{
     margin-top: 50px;
     padding: 10px;
     font-size: 30px;
+    color: #fff;
+}
+
+.partners-background {
+    background-color: #272a31;
+}
+
+.partners{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 30px;
+    row-gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+.each-partner img{
+    width: auto;
+    height: 35px;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    transition: all 0.5s;
+}
+
+.each-partner img:hover{
+    filter: none;
+    -webkit-filter: none;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    align-items: center;
+    margin: 20px;
+}
+
+.logo img{
+    width: auto;
+    height: 50px;
+}
+
+.footer-text p{
+  color: #272a31;
+  font-size: 20px;
+  font-weight: 800;
 }
