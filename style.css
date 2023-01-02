@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'lato',sans-serif;
+}
+header{
+    background-image: url(img/5848211.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: c;
+}
+.nav-bar{
+    display: flex;
+    padding: 20px;
+}
+.ham-bugger{
+    font-size: 32px;
+}
