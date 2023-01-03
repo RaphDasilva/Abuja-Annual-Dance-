@@ -12,7 +12,8 @@ header {
   background-repeat: no-repeat;
   padding-bottom: 100px;
 }
-.hambugger-menu{
+
+.hambugger-menu {
   display: none;
   flex-direction: column;
   height: 95vh;
@@ -29,17 +30,28 @@ header {
   top: 0;
   bottom: 0;
 }
-.hambugger-control{
+
+.hambugger-control {
   display: flex;
   justify-content: space-between;
   padding: 30px;
   align-items: center;
 }
-.close{
+
+.close {
   font-size: 30px;
   color: #272a31;
 }
-.hambugger-menu-list ul{
+
+.join-btn a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.hambugger-menu-list ul {
   padding: 20px 0 20px 28px;
   list-style: none;
   display: flex;
@@ -47,12 +59,13 @@ header {
   gap: 40px;
 }
 
-.hambugger-menu-list ul a{
+.hambugger-menu-list ul a {
   text-decoration: none;
   font-size: 20px;
   font-weight: 600;
   color: #272a31;
 }
+
 .sub-menu {
   display: none;
 }
@@ -181,14 +194,6 @@ header {
 
 .see-more {
   display: none;
-}
-
-.join-btn a {
-  text-decoration: none;
-  color: #fff;
-  font-size: 20px;
-  font-weight: 700;
-  text-align: center;
 }
 
 .speakers {
