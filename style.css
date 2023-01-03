@@ -12,7 +12,12 @@ header {
   background-repeat: no-repeat;
   padding-bottom: 100px;
 }
-
+.sub-menu{
+  display: none;
+}
+.sub-menu ul{
+  display: none;
+}
 .nav-bar {
   display: flex;
   padding: 20px;
@@ -313,7 +318,25 @@ header {
   .page-logo img {
     width: 100%;
   }
-
+  .sub-menu{
+  display: flex;
+  background-color: #333;
+  height: 40px;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  }
+ .sub-menu ul{
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding-right: 10px;
+ }
+ .sub-menu ul a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+ }
   .desktop-nav ul {
     display: flex;
     justify-content: center;
