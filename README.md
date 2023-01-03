@@ -46,11 +46,11 @@ This is a project which highlights About Abuja annual dance festival event sched
 <!-- live demo -->
 ## Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]
+- [Live Demo Link](https://raphdasilva.github.io/Abuja-Annual-Dance-/)
 <!-- Project Presentation -->
 ## Project Presentation <a name="project-presentation"></a>
 
-- [Project Presentation video link]
+- [Project Presentation video link](https://www.loom.com/share/398ba145238944b492cf715eae2d0545)
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
