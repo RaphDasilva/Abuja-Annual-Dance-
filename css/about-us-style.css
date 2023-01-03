@@ -151,10 +151,12 @@ hr {
     background-color: #272a31;
     margin-top: 10px;
   }
-  .logo img{
+
+  .logo img {
     filter: grayscale(100%);
   }
-  .footer-text p{
+
+  .footer-text p {
     color: #fff;
   }
 }

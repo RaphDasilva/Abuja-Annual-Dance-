@@ -535,12 +535,12 @@ header {
     text-decoration: none;
     line-height: 0px;
   }
-  .nav-position{
+
+  .nav-position {
     width: 80%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: auto;
-
   }
 }
