@@ -13,7 +13,7 @@ header {
   padding-bottom: 100px;
 }
 .hambugger-menu{
-  display: flex;
+  display: none;
   flex-direction: column;
   height: 95vh;
   background-color: #fff;
