@@ -74,7 +74,7 @@ hr {
 }
 
 .each-festival-first {
-  background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(img/lagos.jpg);
+  background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(../img/lagos.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 80%;
@@ -88,7 +88,7 @@ hr {
 }
 
 .each-festival-second {
-  background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(img/Abuja.jpg);
+  background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(../img/Abuja.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 80%;
