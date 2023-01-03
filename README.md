@@ -140,6 +140,8 @@ If you like this project please give a star.
 
 I would like to thank microverse
 
+Original design idea by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
