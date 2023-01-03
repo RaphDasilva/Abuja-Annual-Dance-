@@ -115,11 +115,11 @@ hr {
 @media (min-width: 768px) {
   .header-sub-section-about-us {
     margin: auto;
-    padding: 20px;
+    padding: 100px 50px 100px 50px;
     background-color: #d3d3d3;
     color: #272a31;
     line-height: 25px;
-    width: 80%;
+    width: 50%;
     text-align: center;
   }
 
