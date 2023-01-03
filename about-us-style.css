@@ -26,14 +26,15 @@
   margin-top: 30px;
   color: #272a31;
 }
-.header-sub-section-about-us {
-    margin: 20px;
-    padding: 20px;
-    background-color: #d3d3d3;
-    color: #272a31;
-    line-height: 25px;
 
-  }
+.header-sub-section-about-us {
+  margin: 20px;
+  padding: 20px;
+  background-color: #d3d3d3;
+  color: #272a31;
+  line-height: 25px;
+}
+
 .logo-presentation {
   text-align: center;
   font-size: 20px;
@@ -110,8 +111,9 @@ hr {
   font-weight: bold;
   text-align: center;
 }
-@media (min-width: 768px){
-    .header-sub-section-about-us {
+
+@media (min-width: 768px) {
+  .header-sub-section-about-us {
     margin: auto;
     padding: 20px;
     background-color: #d3d3d3;
@@ -120,6 +122,7 @@ hr {
     width: 80%;
     text-align: center;
   }
+
   .the-logo {
     width: 30%;
     height: auto;
@@ -127,6 +130,7 @@ hr {
     border: 1px solid #d3d3d3;
     margin-top: 50px;
   }
+
   .festivals {
     display: flex;
     flex-direction: row;
