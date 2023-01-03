@@ -354,8 +354,9 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 100px;
-    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px -7px grey;
+    margin-top: 10px;
   }
 
   .page-logo {
@@ -381,6 +382,7 @@ header {
     gap: 20px;
     list-style: none;
     padding-right: 10px;
+    margin-right: 9.5%;
   }
 
   .see-more a {
@@ -398,13 +400,13 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 20px;
     list-style: none;
   }
 
   .desktop-nav li a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 12px;
     font-weight: bold;
     color: #272a31;
   }
@@ -526,11 +528,19 @@ header {
 
   .consert {
     border: 3px solid #ec5242;
-    padding: 20px;
+    padding: 10px 20px 10px 20px;
   }
 
   .desktop-nav .consert a:hover {
     text-decoration: none;
     line-height: 0px;
+  }
+  .nav-position{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+
   }
 }
