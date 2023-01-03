@@ -141,4 +141,20 @@ hr {
     width: 80%;
     margin-top: 20px;
   }
+
+  .about-footer-container {
+    display: flex;
+    justify-content: center;
+    column-gap: 65%;
+    align-items: center;
+    padding: 40px;
+    background-color: #272a31;
+    margin-top: 10px;
+  }
+  .logo img{
+    filter: grayscale(100%);
+  }
+  .footer-text p{
+    color: #fff;
+  }
 }
