@@ -9,7 +9,6 @@ header {
   background-image: url(img/4964089.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  backdrop-filter: grayscale(100%);
   padding-bottom: 100px;
 }
 
@@ -321,4 +320,36 @@ header {
   text-decoration-color: #ec5242;
   line-height: 10px;
 }
+
+.header-section {
+  margin-left: 100px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  padding: 50px;
+  width: 70%;
+  font-size: 30px;
+  color: #ec5242;
+}
+
+.header-sub-section {
+  margin-left: 150px;
+  padding: 20px;
+  width: 50%;
+  background-color: #d3d3d3;
+  color: #272a31;
+  line-height: 25px;
+}
+
+.date {
+  margin-left: 150px;
+  font-size: 30px;
+  font-weight: 600;
+  color: #272a31;
+}
+
+.venue {
+  margin-left: 150px;
+  color: #272a31;
+}
+
 }
