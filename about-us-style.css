@@ -1,105 +1,105 @@
-.about-header-section{
-    margin: 20px;
-    font-size: 28px;
-    color: #ec5242;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.about-header-section {
+  margin: 20px;
+  font-size: 28px;
+  color: #ec5242;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.contact{
-    text-align: center;
-    color: #272a31;
-    margin: 20px;
-   
+.contact {
+  text-align: center;
+  color: #272a31;
+  margin: 20px;
 }
 
-.contact span{
-    text-decoration: underline;
+.contact span {
+  text-decoration: underline;
 }
 
 .about-logo h3 {
-    text-align: center;
-    font-size: 40px;
-    margin-bottom: 10px;
-    margin-top: 30px;
-    color: #272a31;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  color: #272a31;
 }
 
-.logo-presentation{
-    text-align: center;
-    font-size: 20px;
-    margin-bottom: 10px;
-    margin-top: 30px;
-    color: #272a31;
-    margin-left: 50px;
-    margin-right: 50px;
+.logo-presentation {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  color: #272a31;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
-.the-logo{
-    width: 80%;
-    height: auto;
-    margin: auto;
-    border: 1px solid #d3d3d3;
-    margin-top: 50px;
-}
-.the-logo img{
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    padding: 50px;
+.the-logo {
+  width: 80%;
+  height: auto;
+  margin: auto;
+  border: 1px solid #d3d3d3;
+  margin-top: 50px;
 }
 
-hr{
-    margin-top: 50px;
+.the-logo img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  padding: 50px;
 }
 
-.festivals{
-    display: flex;
-    flex-direction: column;
-    margin: 20px;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
+hr {
+  margin-top: 50px;
 }
 
-.each-festival-first{
-    background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(img/lagos.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 80%;
-    height: 300px;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
+.festivals {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
 }
 
-.each-festival-second{
-    background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(img/Abuja.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 80%;
-    height: 300px;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
+.each-festival-first {
+  background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(img/lagos.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 300px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
 }
 
-.each-festival h3{
-    font-size: 50px;
-    font-weight: bolder;
+.each-festival-second {
+  background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(img/Abuja.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 300px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
 }
 
-.each-festival p{
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
+.each-festival h3 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.each-festival p {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
 }
