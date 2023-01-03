@@ -42,7 +42,7 @@
     width: 80%;
     height: auto;
     margin: auto;
-    border: 1px solid #272a31;
+    border: 1px solid #d3d3d3;
     margin-top: 50px;
 }
 .the-logo img{
@@ -50,4 +50,56 @@
     height: auto;
     object-fit: contain;
     padding: 50px;
+}
+
+hr{
+    margin-top: 50px;
+}
+
+.festivals{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.each-festival-first{
+    background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(img/lagos.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 300px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.each-festival-second{
+    background: linear-gradient(rgba(236, 82, 66, 0.6), rgba(236, 82, 66, 0.6)), url(img/Abuja.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 300px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.each-festival h3{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.each-festival p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
 }
